@@ -12,9 +12,9 @@ Nachdem man diese Fehler beseitigt hat, könnte man diesen Code durch [cron](htt
 
 ## Umgebung & Requirements
 
-Python == 3.8.6
-beautifulsoup4 == 4.10.0
-pandas == 1.4.1
-requests == 2.27.1
+* Python == 3.8.6
+* beautifulsoup4 == 4.10.0
+* pandas == 1.4.1
+* requests == 2.27.1
 
 
